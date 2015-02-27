@@ -1,0 +1,2 @@
+class PhotoeditController < ApplicationController
+end
